@@ -24,7 +24,7 @@ Welcome to my personal portfolio website! This website showcases my background, 
 ## 📬 Connect With Me
 
 * [GitHub](https://github.com/NitinPrasadBanduni)
-* [LinkedIn]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/nitin-2004-prasad/))
+* [LinkedIn](https://www.linkedin.com/in/nitin-2004-prasad/)
 
 ---
 
