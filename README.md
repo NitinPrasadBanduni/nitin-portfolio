@@ -11,7 +11,6 @@ Welcome to my personal portfolio website! This website showcases my background, 
 * HTML5
 * CSS3
 * JavaScript
-* Font Awesome
 
 ## 📂 Portfolio Sections
 
